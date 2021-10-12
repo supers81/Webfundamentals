@@ -1,0 +1,16 @@
+h1 {
+background-color: black;
+}
+
+h2 {background-color: blueviolet;
+    text-align: center;
+color: white;
+font-style: italic ;}
+
+h3 {background-color: cyan;
+text-align: right;
+text-decoration: underline;
+color: darkblue;}
+
+.aqua {color: aqua;}
+.white {color: white;}
