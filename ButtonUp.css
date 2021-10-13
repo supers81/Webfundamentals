@@ -1,0 +1,18 @@
+.search{border-color: teal; 
+color: teal;
+margin-left: 20px;
+width: 100px;
+border-radius: 25px;
+}
+
+.plus{color: white;
+background-color: limegreen;
+border-radius: 15px;
+margin-bottom: 10px;
+margin-left: 20px;
+margin-top: 10px;}
+
+.ca{background-color: blue;
+    color: white;
+    box-shadow: 5px 3px 3px black;
+    margin-left: 20px;}
